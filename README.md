@@ -14,4 +14,4 @@ Labeled dataset: [COVID-19 Vaccine Sentiment Analysis with fastai](https://www.k
 - vax_tweets_fastai_cleaned.csv - Reuse [Tom Whelan](https://www.kaggle.com/twhelan) fastai code to label latest dataset. Tweets -date range: March 2021 - November 2021
 
 
-![Alt text](image.png?raw=true "Title")
+![Alt text](image.png?raw=true "Time Series Sentiment Analysis")
