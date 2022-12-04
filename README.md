@@ -1,6 +1,6 @@
 # Sentiment Analysis COVID-19 Vaccine
 
-Deplyoed model at Streamlit. Link: [Streamlit.io](https://fauz33-streamlit-test-main-yn7lvt.streamlit.app/)
+Deployed model at Streamlit. Link: [Streamlit.io](https://fauz33-streamlit-test-main-yn7lvt.streamlit.app/)
 
 Original unlabeled dataset: [COVID-19 All Vaccines Tweets](https://www.kaggle.com/datasets/gpreda/all-covid19-vaccines-tweets)
 
